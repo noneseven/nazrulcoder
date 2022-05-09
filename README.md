@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
 
-- 🔭 I’m currently working on [FullStackified](https://fullstackified.com)
+- 🔭 I’m currently working on [Full Stackified](https://fullstackified.com)
 
 - 🌱 I’m currently learning **React JS**
 
