@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India![image](https://user-images.githubusercontent.com/24292032/167641664-95f213ba-56ef-4314-90ee-6102605950ce.png)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulislambhat" /> </p>
 
