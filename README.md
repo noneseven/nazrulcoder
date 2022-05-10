@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nazrulislambhat@gmail.com**
 
-- 📄 Know about my experiences [https://fossnoobs.com/cv](https://fossnoobs.com/cv)
+- 📄 Know about my experiences [https://nazrulislam.dev/cv](https://nazrulislam.dev/cv)
 
 
 <p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
