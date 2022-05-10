@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://fossnoobs.com](https://fossnoobs.com)
 
-- 💬 Ask me about **FE, Drupal, WP, Frontend, Backend, Full Stack, Python,**
+- 💬 Ask me about **Frontend, Backend, Full Stack, Drupal, WP, HTML, CSS, SaSS, Bootstrap, Tailwind CSS, Twig, Git, TS, JS, React, Python,**
 
 - 📫 How to reach me **nazrulislambhat@gmail.com**
 
