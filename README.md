@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulislambhat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
-
 - 🔭 I’m currently working on [Full Stackified](https://fullstackified.com)
 
 - 🌱 I’m currently learning **React JS**
@@ -19,6 +17,9 @@
 - 📫 How to reach me **nazrulislambhat@gmail.com**
 
 - 📄 Know about my experiences [https://fossnoobs.com/cv](https://fossnoobs.com/cv)
+
+
+<p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
