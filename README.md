@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Frontend, Backend, Full Stack, Drupal, WP, HTML, CSS, SaSS, Bootstrap, Tailwind CSS, Twig, Git, TS, JS, React, Python,**
 
-- 📫 How to reach me **nazrulislambhat@gmail.com**
+- 📫 How to reach me **https://nazrulislam.dev/contact*
 
 - 📄 Know about my experiences [https://nazrulislam.dev/cv](https://nazrulislam.dev/cv)
 
