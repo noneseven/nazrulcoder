@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=0e75b6&style=flat" alt="nazrulislambhat" /> </p>
 
-- 🔭 I’m currently working on [Full Stackified](https://fullstackified.com)
+- 🔭 I’m currently working on [Full Stackified](https://fullstackified.com) && [Stack Forest]
 
 - 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev)
 
 - 📝 I regularly write articles on [https://fossnoobs.com](https://fossnoobs.com)
+
+- 👨‍💻 I work as a full time SDE/FE at Axelerant Technologies
 
 - 💬 Ask me about **Frontend, Backend, Full Stack, Drupal, WP, HTML, CSS, SaSS, Bootstrap, Tailwind CSS, Twig, Git, TS, JS, React, Python,**
 
