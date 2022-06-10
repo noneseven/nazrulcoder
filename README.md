@@ -50,7 +50,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nazrulislambhat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nazrulislambhat" /></a><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulislambhat&show_icons=true&theme=merko&locale=en&layout=compact" alt="nazrulislambhat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazrulislambhat&show_icons=true&theme=merko&locale=en&layout=wide" alt="nazrulislambhat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazrulislambhat&show_icons=true&theme=merko&locale=en" alt="nazrulislambhat" /></p>
 
