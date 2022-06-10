@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=ea3e3e&style=flat" alt="nazrulislambhat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazrulislambhat" alt="nazrulislambhat" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
-
 - 🔭 I’m currently working on [Full Stackified Inc.](https://fullstackified.com)
 
 - 🌱 I’m currently learning **JavaScript, React JS, Next JS, Vue, Angular**
