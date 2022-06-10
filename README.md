@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
 <h3 align="center">A passionate frontend/full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=ea3e3e&style=flat" alt="nazrulislambhat" /> </p>
-
 - 🔭 I’m currently working on [Full Stackified Inc.](https://fullstackified.com)
 
 - 🌱 I’m currently learning **JavaScript, React JS, Next JS, Vue, Angular**
@@ -21,9 +19,6 @@
 
 - 📄 Know about my experiences [https://nazrulislam.dev/about](https://nazrulislam.dev/about)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
