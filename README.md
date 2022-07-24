@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React JS, Next JS, Vue, Angular**
 
-- 👯 I’m looking to collaborate on [Stack Forest Inc.](https://stackforest.net)
+- 👯 I’m looking to collaborate on [Stack Forest Technologies.](https://stackforest.net)
 
 - 🤝 I’m looking for help with [Foss Noobs](https://fossnoobs.com)
 
