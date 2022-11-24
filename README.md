@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stackified Inc.](https://fullstackified.com)
+- 🔭 I’m currently working on [Stack Forest Technologies.](https://stackforest.net)
 
-- 🌱 I’m currently learning **JavaScript, React JS**
+- 🌱 I’m currently learning ** Advance JavaScript, React JS**
 
 - 👯 I’m looking to collaborate on [Stack Forest Technologies.](https://stackforest.net)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://fossnoobs.com](https://fossnoobs.com)
 
-- 💬 Ask me about **frontend, JS, CSS, React JS, Python, DSA**
+- 💬 Ask me about **frontend, JS, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
 
 - 📫 How to reach me **contact@nazrulislam.dev**
 
