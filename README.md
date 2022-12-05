@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
 
-- 🔭 I’m currently working on [Stack Forest Technologies.](https://stackforest.net)
+- 🔭 I’m currently working on [Stack Metic Technologies.](https://stackmetic.com)
 
 - 🌱 I’m currently learning ** Advance JavaScript, React JS**
 
-- 👯 I’m looking to collaborate on [Stack Forest Technologies.](https://stackforest.net)
+- 👯 I’m looking to collaborate on [Stack Metic Technologies.](https://stackmetic.com)
 
 - 🤝 I’m looking for help with [Foss Noobs](https://fossnoobs.com)
 
