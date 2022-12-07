@@ -1,24 +1,22 @@
-<h1 align="center">Hi 👋, I'm Nazrul Islam</h1>
+## Hello, I'm [Nazrul Islam!](https://nazrulislam.dev/)
 <h3 align="center">A passionate frontend/full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=ea3e3e&style=flat" alt="nazrulislambhat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
 
-## Hello, I'm [Nazrul Islam!](https://nazrulislam.dev/)
-
 ### About Me 🚀
 
-🌱 Full stack developer with a master's degree in computer applications.</br>
+🌱 Full stack developer with a Master's degree in Computer Applications.</br>
 👨‍💻 I am passionate about Web Development and enjoy learning new things. </br>
 
 - 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
 
-- 🌱 I’m currently learning ** Advance JavaScript, React JS**
+- 🌱 I’m currently learning **Advance JavaScript, React JS**
 
 - 👯 I’m looking to collaborate on [StackMetic Technologies.](https://stackmetic.com)
 
-- 🤝 I’m looking for help with [Foss Noobs](https://fossnoobs.com)
+- 🤝 I’m looking for freelance writers for [Foss Noobs](https://fossnoobs.com)
 
 - 👨‍💻 All of my projects are available at [https://nazrulislam.dev](https://nazrulislam.dev)
 
