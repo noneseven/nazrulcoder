@@ -54,5 +54,3 @@
 ![Nazrul's github stats](https://github-readme-stats.vercel.app/api?username=nazrulislambhat&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Nazrul's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nazrulislambhat&layout=compact&langs_count=8&hide_border=true)
 <br />
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nazrulislambhat.nazrulislambhat)
