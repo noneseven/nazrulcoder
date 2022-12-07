@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
 
-## Hello, I'm [Nazrul Islam!](https://www.linkedin.com/in/nazrulislambhat/) 
+## Hello, I'm [Nazrul Islam!](https://nazrulislam.dev/)
+
+### About Me 🚀
+
+🌱 Full stack developer with a master's degree in computer applications.</br>
+👨‍💻 I am passionate about Web Development and enjoy learning new things. </br>
 
 - 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
 
@@ -25,7 +30,6 @@
 
 - 📄 Know about my experiences [https://nazrulislam.dev/about](https://nazrulislam.dev/about)
 
-
 <a href="https://www.linkedin.com/in/nazrulislambhat/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -41,17 +45,14 @@
 
 <br />
 
-### About Me 🚀
-🌱 Full stack developer with a master's degree in computer applications.</br>
-👨‍💻 I am passionate about Web Development and enjoy learning new things. </br>
-
 ### My Experiences 🙌
+
 - [Frontent Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
 - [Founder (FossNoobs)](https://www.fossnoobs.com/) - (Jan'20-Present)
 
-![Nazrul's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Nazrul's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Nazrul's github stats](https://github-readme-stats.vercel.app/api?username=nazrulislambhat&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Nazrul's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nazrulislambhat&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nazrulislambhat.nazrulislambhat)
