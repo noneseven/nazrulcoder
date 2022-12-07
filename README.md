@@ -45,7 +45,7 @@
 
 ### My Experiences 🙌
 
-- [Frontent Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
+- [Frontend Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
 - [Founder (FossNoobs)](https://www.fossnoobs.com/) - (Jan'20-Present)
 
