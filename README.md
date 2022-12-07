@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://fossnoobs.com](https://fossnoobs.com)
 
-- 💬 Ask me about **frontend, JS, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
+- 💬 Ask me about **Frontend, JS, CSS, SaSS, WordPress, Drupal, React JS, Python, DSA**
 
 - 📫 How to reach me **contact@nazrulislam.dev**
 
@@ -25,13 +25,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nazrulislambhat" height="30" width="40" /></a>
-<a href="https://twitter.com/nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nazrulislambhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazrulislambhat" height="30" width="40" /></a>
-<a href="https://fb.com/nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazrulislambhat" height="30" width="40" /></a>
-<a href="https://instagram.com/nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nazrulislambhat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nazrulislambhat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nazrulislambhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nazrulislambhat" height="30" width="40" /></a>
+<a href="https://codepen.io/nazrulislambhat" target="blank"><img align="center" src="/icons/codepen.png" alt="nazrulislambhat" height="30" width="40" /></a>
+<a href="https://twitter.com/nazrulislambhat" target="blank"><img align="center" src="" alt="nazrulislambhat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nazrulislambhat" target="blank"><img align="center" src="" alt="nazrulislambhat" height="30" width="40" /></a>
+<a href="https://fb.com/nazrulislambhat" target="blank"><img align="center" src="" alt="nazrulislambhat" height="30" width="40" /></a>
+<a href="https://instagram.com/nazrulislambhat" target="blank"><img align="center" src="" alt="nazrulislambhat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nazrulislambhat" target="blank"><img align="center" src="" alt="nazrulislambhat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
