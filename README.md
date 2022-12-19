@@ -51,7 +51,3 @@
 - [Frontend Engineer (Axelerant Technologies)](https://www.axelerant.com/) - (Nov'21-Present)
 - [Founder & CEO (StackMetic Technologies)](https://stackmetic.com/) - (Jan'21-Present)
 - [Founder (FossNoobs)](https://www.fossnoobs.com/) - (Jan'20-Present)
-
-![](https://github-readme-stats.vercel.app/api?username=nazrulislambhat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazrulislambhat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br />
