@@ -51,4 +51,7 @@
 
 ![Nazrul's github stats](https://github-readme-stats.vercel.app/api?username=nazrulislambhat&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Nazrul's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nazrulislambhat&layout=compact&langs_count=8&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=nazrulislambhat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nazrulislambhat&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazrulislambhat&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br />
