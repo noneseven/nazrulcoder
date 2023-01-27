@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazrulislambhat&label=Profile%20views&color=ea3e3e&style=flat" alt="nazrulislambhat" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nazrulislambhat" target="blank"><img src="https://img.shields.io/twitter/follow/nazrulislambhat?logo=twitter&style=for-the-badge" alt="nazrulislambhat" /></a> </p>
-
 ### About Me 🚀
 
 🌱 Full stack developer with a Master's degree in Computer Applications.</br>
@@ -12,7 +10,7 @@
 
 - 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
 
-- 🌱 I’m currently learning **Advance JavaScript, React JS**
+- 🌱 I’m currently learning **Advance JavaScript, React JS, NextJS**
 
 - 👯 I’m looking to collaborate on [StackMetic Technologies.](https://stackmetic.com)
 
@@ -53,4 +51,4 @@
 - [Founder (FossNoobs)](https://www.fossnoobs.com/) - (Jan'20-Present)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nazrulislambhat) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nazrulislambhat) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nazrulislambhat) 
