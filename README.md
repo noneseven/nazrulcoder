@@ -8,7 +8,7 @@
 🌱 Full stack developer with a Master's degree in Computer Applications.</br>
 👨‍💻 I am passionate about Web Development and enjoy learning new things. </br>
 
-- 🔭 I’m currently working on [StackMetic Technologies.](https://stackmetic.com)
+- 🔭 I’m currently working on [stackmetic technologies.](https://stackmetic.com)
 
 - 🌱 I’m currently learning **Advance JavaScript, React JS, NextJS**
 
